@@ -4,6 +4,7 @@
 
   const links = [
     { href: 'index.html', label: 'Home' },
+    { href: 'ev-battery-testing.html', label: 'EV Battery Testing' },
     { label: 'Recycling & Disposal', dropdown: [
       { href: 'disposal.html', label: 'Battery disposal & re-use' },
       { href: 'businesses.html', label: 'How we help businesses' },
@@ -68,6 +69,7 @@
         <div>
           <h4>Services</h4>
           <ul>
+            <li><a href="ev-battery-testing.html">EV battery testing</a></li>
             <li><a href="disposal.html">Battery disposal</a></li>
             <li><a href="businesses.html">Business services</a></li>
             <li><a href="repairs.html">Repairs & builds</a></li>
